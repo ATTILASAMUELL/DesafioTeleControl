@@ -39,6 +39,7 @@ Oobservação: Não utilizar PHP 8.1.*
 ##  Clone do projeto 
 ### Clone
 ```bash
+git clone https://github.com/ATTILASAMUELL/DesafioTeleControl.git
 
 ```
 ## 🚀 Instalação
@@ -53,7 +54,7 @@ sistema-telecontrol.sql
 mysql:dbname=sistema-telecontrol;host=127.0.0.1
 ```
 
-### Clone
+### Composer 
 ```bash
 composer dump-autoload
 
