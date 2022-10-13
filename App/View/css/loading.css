@@ -1,0 +1,101 @@
+#loading
+{
+    display: none;
+
+    
+}
+
+#alerta
+{
+    display:  none;
+}
+
+#sucesso
+{
+    display: none;
+}
+
+
+
+
+
+#loadinglogin
+{
+    display: none;
+
+    
+}
+
+#alertalogin
+{
+    display:  none;
+}
+
+#sucessologin
+{
+    display: none;
+}
+
+
+
+#loadingPainelADM
+{
+    display: none;
+
+    
+}
+
+#sucessoPainel
+{
+    display:  none;
+}
+
+#alertaPainel
+{
+    display: none;
+}
+
+
+#alertaCarrinhoADD
+{
+    display:  none;
+}
+
+#btnCar
+{
+    margin: 2px;
+}
+
+#loadingCarrinho
+{
+    display: none;
+}
+
+#sucessoCarrinho
+{
+    display: none;
+}
+
+#AlertaCarrinho
+{
+    display:  none;
+}
+
+
+#taga{
+   
+    pointer-events: none;
+    
+}
+
+
+#foot
+{
+
+    background-color: #343A40;
+}
+
+#textofooter
+{
+    color: blanchedalmond;
+}
